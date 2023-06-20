@@ -1,0 +1,12 @@
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\bin\Debug\SportsLogos.exe.config
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\bin\Debug\SportsLogos.exe
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\bin\Debug\SportsLogos.pdb
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\obj\Debug\SportsLogos.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\obj\Debug\SportsLogos.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\obj\Debug\SportsLogos.frmLogos.resources
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\obj\Debug\SportsLogos.Properties.Resources.resources
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\obj\Debug\SportsLogos.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\obj\Debug\SportsLogos.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\obj\Debug\SportsLogos.exe
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\obj\Debug\SportsLogos.pdb
+C:\Users\jpscott\Desktop\SuperHeroesAndLogos\SuperHeroLogo\SportsLogos\obj\Debug\SportsLogos.frmSplashScreen.resources
